@@ -1,0 +1,241 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+    
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+.about-contet {
+margin-bottom: 30px;
+}
+  
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+#header-sticky {
+top: 10px;
+}
+.logo img {
+margin-top: 2px;
+}    
+.header-area {
+top: 10px;
+}
+.mean-container a.meanmenu-reveal {
+    margin-top: -25px;
+}  
+
+.feature-content i {
+margin-bottom: 15px;
+}   
+    
+.feature-content h3 {
+font-size: 18px;
+margin-bottom: 15px;
+}  
+.feature-content p {
+font-size: 10px;
+}  
+ 
+.slider-inner h2 {
+font-size: 50px;
+margin-bottom: 10px;
+}
+.slider-inner p {
+margin-bottom: 5px;
+} 
+.btn-one {
+margin-top: 0;
+margin-left: 0px;
+margin-bottom: 10px;
+}
+.feature-contnet-bottom-img img {
+margin-left: -50px;
+}
+.footer-icon a {
+padding: 10px;
+}
+.new-title h4 {
+margin-left: 98px;
+margin-top: -87px;
+font-size: 14px;
+}
+.new-title span {
+margin-left: 100px;
+} 
+}
+
+ 
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+    
+  #header-sticky {
+top: 10px;
+}
+.logo img {
+margin-top: 2px;
+}    
+.header-area {
+top: 10px;
+}
+.mean-container a.meanmenu-reveal {
+    margin-top: -25px;
+} 
+    
+.header-area {
+top: 10px;
+}
+ 
+.slider-inner h2 {
+font-size: 40px;
+margin-bottom: 10px;
+}
+.slider-inner p {
+margin-bottom: 5px;
+} 
+
+.feature-area {
+margin-top: 0px;
+}
+.feature-content {
+border-bottom: 2px solid #cabcbc;
+}
+.feature-inner .col-xl-4:last-child .feature-content {
+border-bottom: 0;
+}
+.btn-one {
+margin-top: 0;
+margin-left: 0px;
+margin-bottom: 10px;
+}
+.feature-contnet-bottom-img img {
+margin-left: -50px;
+} 
+.subscribe-form input {
+width: 100%;
+margin-bottom: 30px;
+}  
+.team-img::before {
+top: 100px;
+bottom: 100px;
+left: 100px;
+right: 100px;
+}
+ .team-info {
+    top: 230px;
+}   
+ 
+.thum a img {
+    margin-bottom: 30px;
+}
+.copyright-text p {
+text-align: center;
+}   
+.footer-menu ul li {
+padding-right: 28px;
+padding-top: 30px;
+}  
+    
+}
+
+
+
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+   
+#header-sticky {
+top: 10px;
+}
+.logo img {
+margin-top: 2px;
+}    
+.header-area {
+top: 10px;
+}
+.mean-container a.meanmenu-reveal {
+margin-top: -25px;
+}  
+.header-area {
+top: 10px;
+}
+ 
+.slider-inner h2 {
+    font-size: 30px;
+    margin-bottom: 6px;
+}
+.slider-inner p {
+    margin-bottom: 15px;
+}
+
+.feature-area {
+margin-top: 0px;
+}
+.feature-content {
+border-bottom: 2px solid #cabcbc;
+}
+.feature-inner .col-xl-4:last-child .feature-content {
+border-bottom: 0;
+}
+.btn-one {
+margin-top: 0;
+margin-left: 40px;
+margin-bottom: 12px;
+}
+.subscribe-form input {
+width: 100%;
+margin-bottom: 30px;
+} 
+ 
+.pricing-conent h3 {
+padding: 10px 0px;
+}
+    
+.team-img img {
+width: 60%;
+}   
+.team-img::before {
+top: 40px;
+bottom: 40px;
+left: 125px;
+right: 125px;
+}
+ .team-info {
+    top: 35px;
+}   
+.team-info h3 {
+font-size: 15px;
+}   
+.testmonial-name span {
+font-size: 16px;
+}   
+.testmonial-name p {
+font-size: 13px;
+    }
+
+.brand-content a img {
+margin-left: 150px;
+}  
+.thum a img {
+margin-bottom: 30px;
+}
+.copyright-text p {
+text-align: center;
+}   
+.footer-menu ul li {
+padding-right: 18px;
+padding-top: 20px;
+} 
+    
+    }
+    
+    
+
