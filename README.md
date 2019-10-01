@@ -1,3 +1,3 @@
 # monu
 monu_psd ot html convert
-https://mdnayonbabujibon.github.io/monu/.
+https://developernayonb.github.io/monu/
